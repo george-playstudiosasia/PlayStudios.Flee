@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PlayStudios.Flee</id>
+    <version>1.0.1</version>
+    <authors>psa</authors>
+    <owners>PlayStudios Asia</owners>
+    <licenseUrl>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</licenseUrl>
+    <projectUrl>https://github.com/george-playstudiosasia/PlayStudios.Flee</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PlayStudios Flee library</description>
+    <releaseNotes>Memory leak fix.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Flee</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\**\*.*" target="lib\net461" />
+  </files>
+</package>
